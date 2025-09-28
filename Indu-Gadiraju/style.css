@@ -1,0 +1,88 @@
+
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: pink;
+ margin-bottom:5em;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #e02d99;
+  font-size:100px;
+  font-weight: normal;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+  font-family: Serif;
+}
+
+#portfolioHeader {
+  color: #e02d99;
+  font-size:50px;
+  font-weight: bold;
+  font-family: "Copperplate", fantasy;
+  text-shadow: 2px 2px white;
+}
+
+p{
+  color:#27285c;
+  font-family: "Lucida Handwriting",cursive;
+  font-size:20px;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+
+main{
+  text-align:center;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#welcome{
+  color:#e02d99;
+}
+
+.portfolioSkills{
+  font-size: 15px;
+  font-weight: normal;
+}
+
+/* STYLE IMAGES */
+img{
+  max-width: 15%;
+  max-height:15%;
+  border:3px solid white;
+  border-radius: 10%;
+}
+
+.projectImages{
+  max-width: 50%;
+  border-color: #e02d99;
+}
+
+/* STYLE NAV BAR */
+ul{
+  list-style-type:none;
+  background-color:#27285c;
+  overflow: hidden;
+  padding: 1em;
+}
+
+li{
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding:1em;
+}
+
+li a:hover {
+  background-color: #e02d99;
+}
+
