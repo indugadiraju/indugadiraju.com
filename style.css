@@ -18,7 +18,7 @@ h1 {
 }
 
 #portfolioHeader {
-  color: #e02d99;
+  color: #589EA3;
   font-size:50px;
   font-weight: bold;
   font-family: "Copperplate", fantasy;
@@ -26,8 +26,8 @@ h1 {
 }
 
 p{
-  color:#27285c;
-  font-family: "Times New Roman", Times, serif;
+  color: black;
+  font-family: Serif;
   font-size:20px;
   font-weight: bold;
   padding-bottom: 1em;
