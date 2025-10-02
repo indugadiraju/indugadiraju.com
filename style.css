@@ -1,14 +1,14 @@
 
 /* STYLE SECTIONING TAGS */
 body {
- background-color: #FFFDD0;
+ background-color: #ededed;
  margin-bottom:5em;
 }
 
 /* STYLE TEXT */
 
 h1 {
-  color: #e02d99;
+  color: black;
   font-size:100px;
   font-weight: normal;
   padding-top: 0.5em;
@@ -27,7 +27,7 @@ h1 {
 
 p{
   color:#27285c;
-  font-family: "Lucida Handwriting",cursive;
+  font-family: "Times New Roman", Times, serif;
   font-size:20px;
   font-weight: bold;
   padding-bottom: 1em;
