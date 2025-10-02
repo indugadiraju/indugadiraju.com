@@ -32,6 +32,9 @@ p{
   font-weight: bold;
   padding-bottom: 1em;
 }
+.standoutP{
+  color: #800080;
+}
 
 main{
   text-align:center;
@@ -43,6 +46,7 @@ main{
 
 #welcome{
   color:#e02d99;
+  font-weight: bolder;
 }
 
 .portfolioSkills{
